@@ -1,4 +1,4 @@
-OUTPUT=./build
+OUTPUT=./
 make_all:
 	g++ -g -O0 -o ${OUTPUT}/val_test01_solved val_test01_solved.cpp
 	g++ -g -O0 -o ${OUTPUT}/val_test02_solved val_test02_solved.cpp
